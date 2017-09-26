@@ -1,4 +1,4 @@
-import java.util.Date;
+rimport java.util.Date;
 
 public class Name {
     private String title;
@@ -59,6 +59,6 @@ public class Name {
     }
 
     public String getSuffixGenerational() {
-        /* return Name's generational suffix */
+        return this.suffixGenerational;
 }
 }
