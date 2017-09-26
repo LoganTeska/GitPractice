@@ -32,18 +32,22 @@ public class Name {
 
     public String getTitle() {
         /* return name's title */
+        return title;
     }
 
     public String getFirst() {
         /* return Name's first name */
+        return first;
     }
 
     public String getMiddle() {
         /* return Name's middle name */
+        return middle;
     }
 
     public String getSurname() {
         /* return Name's last name */
+        return surname;
     }
 
     public String getSurnameParent1() {
